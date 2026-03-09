@@ -1,6 +1,6 @@
-# Mentorship Inbox Agent — Code
+# Inbox Agent — Code
 
-Google Apps Script that automatically monitors your Gmail for MentorCruise and Leland emails, classifies them, and generates Claude-powered draft replies every 15 minutes.
+Google Apps Script that automatically monitors your Gmail for mentorship emails, classifies them, and generates Claude-powered draft replies every 15 minutes.
 
 ---
 
