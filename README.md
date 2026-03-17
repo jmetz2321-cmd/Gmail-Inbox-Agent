@@ -1,4 +1,4 @@
-# Mentorship Inbox Agent
+# Gmail Inbox Agent
 
 An automated Gmail assistant that monitors your inbox for emails from **MentorCruise** and **Leland**, classifies them by type, and uses **Claude AI** to generate draft replies — all without sending anything until you review and approve.
 
